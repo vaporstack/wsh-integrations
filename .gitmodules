@@ -1,0 +1,6 @@
+[submodule "contrib/wsh"]
+	path = contrib/wsh
+	url = https://github.com/vaporstack/wsh
+[submodule "contrib/adobe"]
+	path = contrib/adobe
+	url = git@bitbucket.org:vaporstack/adobe_sdks.git
